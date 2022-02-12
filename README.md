@@ -9,4 +9,4 @@ Types:
 	- info
 	- warning
 	- error
-    - notice
+    	- notice
